@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hey, I'm Rahul Wankar
 
-<!--
-**Rahulwankar/RahulWankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Full Stack Developer | AI/ML Explorer | Tech Enthusiast
 
-Here are some ideas to get you started:
+I’m a passionate developer who loves building modern, scalable, and user-friendly applications. I enjoy exploring new technologies, solving real-world problems, and turning creative ideas into meaningful digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💡 Passionate about building innovative and impactful solutions.
+- 🌐 Interested in Full Stack Web Development.
+- 🤖 Exploring Artificial Intelligence, Machine Learning, and Computer Vision.
+- ⚙️ Learning backend architecture, APIs, and database management.
+- 🧠 Always curious about new technologies and better ways to build.
+- 🎯 Focused on continuous learning, problem-solving, and becoming a better developer.
+
+<p align="center">
+  <i>"Code. Create. Learn. Repeat."</i>
+</p></WritingBlock}
+
+
